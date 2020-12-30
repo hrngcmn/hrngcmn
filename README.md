@@ -2,7 +2,7 @@
 
 
 
-YETENEKLER: 
+ YETENEKLER: 
 
 ⚡ Arduino
 
@@ -22,7 +22,7 @@ YETENEKLER:
 
 ⚡ Dialux evo kullanarak aydınlatma sistemi kurma.
 
-⚡ Kurulan aydınlatma sisteminin AutoCAD veya ElektrikCAD üzerinden çizimini yapma. 
+⚡ AutoCAD veya ElektrikCAD üzerinden elektrik tesisatı çizimini yapma. 
 
 ⚡ PvSol GES simulasyon programı kulanma.
 
