@@ -13,7 +13,6 @@ YETENEKLER:
 ⚡ PvSol GES simulasyon programı kulanma.
 ⚡ 8052 mikrodenetleyiciler hakkında temel bilgileri biliyorum.
 ⚡ Sayısal sistemler, elektronik alanlarında temel bilgi sahibiyim.
-
 <!--
 **hrngcmn/hrngcmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
