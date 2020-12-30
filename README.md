@@ -1,16 +1,19 @@
-### Hi there 👋
+ Selam ben Harun 👋👋
 
 <!--
 **hrngcmn/hrngcmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+YETENEKLER: 
+⚡ Arduino
+⚡ python
+⚡ C# 
+" .... Projelerimi github üzerinden sizinle paylaşıyorum ...."
+⚡ Devre Analizi.
+⚡ tia portal - factory io programlarını kullanarak PLC fabrika otomasyonu.
+⚡ Klasik kumanda otomasyonu konusunda bilgi sahibiyim. Ladder diyagram oluşturum. 
+⚡ Proteus, multisim gibi elektronik simulasyon programlarını biliyorum. 
+⚡ Dialux evo kullanarak aydınlatma sistemi kurma.
+⚡ Kurulan aydınlatma sisteminin AutoCAD veya ElektrikCAD üzerinden çizimini yapma. 
+⚡ PvSol GES simulasyon programı kulanma.
+⚡ 8052 mikrodenetleyiciler hakkında temel bilgileri biliyorum.
+⚡ Sayısal sistemler, elektronik alanlarında temel bilgi sahibiyim.
