@@ -1,14 +1,12 @@
 👋 ..... Selam ben Harun .....👋
 
+Aşağıdaki konularda sizlere yardımcı olabilirim:
 
+⚡ Arduino  💣
 
- ** YETENEKLER: ** 
-
-⚡ Arduino
-
-⚡ python
-
-⚡ C# 
+⚡ python  💣
+ 
+⚡ C#  💣
 
 " .... Projelerimi github üzerinden sizinle paylaşıyorum ...."
 
