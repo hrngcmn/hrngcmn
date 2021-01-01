@@ -2,7 +2,7 @@
 
 
 
- YETENEKLER: 
+ ** YETENEKLER: ** 
 
 ⚡ Arduino
 
