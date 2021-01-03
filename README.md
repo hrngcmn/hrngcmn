@@ -1,6 +1,4 @@
-﻿![enter image description here](https://github.com/hrngcmn/hrngcmn/blob/main/tan%C4%B1t%C4%B1m.png?raw=true)
-  
-
+﻿
 ## 👋 . . . . . . . . . . .   Selam ben Harun . . . . . . . . . . .  👋 
 
 *  **Arduino**  💣
@@ -15,7 +13,7 @@
 
 ### " .... Github üzerinden bu alanlarda proje paylaşıyorum...."
 
-
+[enter link description here](https://media.giphy.com/media/966mfV3oYPLsk/giphy.gif)
 <!--
 **hrngcmn/hrngcmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
