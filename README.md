@@ -1,6 +1,7 @@
-﻿![enter image description here](https://github.com/hrngcmn/hrngcmn/blob/main/github_profil.png?raw=true)
-![enter image description here](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
-
+﻿
+![enter image description here](https://github.com/hrngcmn/hrngcmn/blob/main/screedbot.gif?raw=true)                                                                                                          
+![enter image description here](https://github.com/hrngcmn/hrngcmn/blob/main/thankyoumario.gif?raw=true)
+![enter image description here](http://imgur.com/QsfVIOE.gif)
 
 
 *  TIA Portal - S7-PLCSIM* üzerinden PLC ladder diyagramı oluşturma
@@ -19,6 +20,7 @@
 
 
 * Depolarımda dinozor oyununun arduino programlanmasını ve detaylarına ulaşabilirsiniz.  ![enter image description here](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
+* ![enter image description here](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 <!--
 **hrngcmn/hrngcmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
