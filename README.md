@@ -10,11 +10,13 @@
 
 * Arduino programlama
 
-*   python programlama  
+*   Python programlama  
  
-*   *C# programlama 
+*   C# programlama 
 
+⬇⬇⬇⬇⬇⬇ ...... Bana soru sor ...... ⬇⬇⬇⬇⬇⬇
 
+### mail: haruneses2626@gmail.com 🖐👋
 
 ###  Yaptığım projeleri   üzerinden paylaşıyorum. Eğer depolarımdan işinize yarayacak birşeyler bulursanız ne mutlu bana :D
 
