@@ -1,28 +1,40 @@
 ﻿
 ![enter image description here](https://github.com/hrngcmn/hrngcmn/blob/main/screedbot.gif?raw=true)                                                                                                          
-![enter image description here](https://github.com/hrngcmn/hrngcmn/blob/main/thankyoumario.gif?raw=true)
-![enter image description here](http://imgur.com/QsfVIOE.gif)
+![enter image description here](https://github.com/hrngcmn/hrngcmn/raw/main/thankyoumario.gif?raw=true)
+![enter image description here](http://imgur.com/QsfVIOE.gif) 
 
+
+## Sizler için neler yapabileceklerim :
 
 *  TIA Portal - S7-PLCSIM* üzerinden PLC ladder diyagramı oluşturma
 
 * Factory io simülasyon programı üzerinden kodladığım PLC'yi 3D olarak simülasyonunu oluşturma. 
 
-* Arduino programlama
+* **Arduino** programlama
 
-*   Python programlama  
+*   **Python** programlama  
  
-*   C# programlama 
+*   **C#** programlama 
 
-⬇⬇⬇⬇⬇⬇ ...... Bana soru sor ...... ⬇⬇⬇⬇⬇⬇
+* **Dialüx**  ile aydınlatma sistemi oluşturma.
 
-### mail: haruneses2626@gmail.com 🖐👋
+* **AutoCAD** veya **elektrikCAD** ile elektrik  tesisatının çizimi. 
 
-###  Yaptığım projeleri   üzerinden paylaşıyorum. Eğer depolarımdan işinize yarayacak birşeyler bulursanız ne mutlu bana :D
+* **Baskı devre** oluşturma. 
 
+* **Proteus** veya **multisimden** devre şematiği oluşturma. 
+* 
 
-* Depolarımda dinozor oyununun arduino programlanmasını ve detaylarına ulaşabilirsiniz.  ![enter image description here](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
-* ![enter image description here](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
+![enter image description here](https://github.com/hrngcmn/hrngcmn/blob/main/wigflip-ds.png?raw=true)
+### gmail: haruneses2626@gmail.com 
+
+## Yaptığım projeleri  github  üzerinden paylaşıyorum. Eğer depolarımdan işinize yarayacak verileri bulursanız ne mutlu bana :D
+
+### Sadece arduino, ldr ve servo motor ile yapılabilecek eğlenceli bir uygulama olan dinozor oyunuma depolarımdan ulaşabilirsiniz.   ![enter image description here](https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)
+![enter image description here](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
+
+![enter image description here](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
+
 <!--
 **hrngcmn/hrngcmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
