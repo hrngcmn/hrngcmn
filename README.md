@@ -1,7 +1,7 @@
                                                                                                      
 ## Hello Friends.
 ### I'm Harun.
-### I'm electrical and electronical engineer.
+### I'm electrical and electronic engineer.
 ### Areas where I work:
    - PLC programing.
    - Robotic rograming.
